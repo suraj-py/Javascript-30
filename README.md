@@ -7,4 +7,5 @@ In this repo I have shared all the mini projects that I have learned by followin
  - [JS and CSS Clock](https://github.com/suraj-py/Javascript-30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
  - [CSS variables](https://github.com/suraj-py/Javascript-30/tree/master/03%20-%20CSS%20Variables)
  - [Array cardio 1](https://github.com/suraj-py/Javascript-30/tree/master/04%20-%20Array%20Cardio%20Day%201)
+ - [Flex Panel Gallery](https://github.com/suraj-py/Javascript-30/tree/master/05%20-%20Flex%20Panel%20Gallery)
  - [Array cardio 2](https://github.com/suraj-py/Javascript-30/tree/master/07%20-%20Array%20Cardio%20Day%202)
