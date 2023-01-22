@@ -13,4 +13,5 @@ In this repo I have shared all the mini projects that I have learned by followin
 | 05 | [Flex Panel Gallery](https://github.com/suraj-py/Javascript-30/tree/master/05%20-%20Flex%20Panel%20Gallery) |
 | 06 | [Type Ahead](https://github.com/suraj-py/Javascript-30/tree/master/06%20-%20Type%20Ahead) |
 | 07 | [Array cardio 2](https://github.com/suraj-py/Javascript-30/tree/master/07%20-%20Array%20Cardio%20Day%202) |
+| 08 | [Fun with HTML5 Canvas](https://github.com/suraj-py/Javascript-30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas) |
 
