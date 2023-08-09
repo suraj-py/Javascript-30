@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Console Tricks!</title>
+</head>
+<body>
+
+  <p onClick="makeGreen()">×BREAK×DOWN×</p>
+
+  <script>
+    const dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
+
+    // right click -> break on 
+    function makeGreen() {
+      const p = document.querySelector('p');
+      p.style.color = '#BADA55';
+      p.style.fontSize = '50px';
+    }
+
+    // Regular
+    console.log('Hello Friend')
+
+    // Interpolated
+    let name = 'Suraj'
+    console.log(`Hello there, I'm ${name}`)
+
+    // Styled
+    // console.log('%c This is styled text', 'font-size: 2rem; background-color: red;')
+
+    // warning!
+    console.warn('Ohhh Noooooo')
+
+    // Error :|
+    console.error('This is error')
+
+    // Info
+    console.info('This code is written by javascript30.')
+
+    // Testing
+    const p = document.querySelector('p');
+
+    console.assert(p.classList.contains('ouch'), 'That is wrong!');
+
+    // clearing
+    console.clear()
+
+    // Viewing DOM Elements
+    console.log(p)
+    console.dir(p)
+    console.clear()
+
+    // Grouping together
+    dogs.forEach(dog =>{
+      console.group(`${dog.name}`)
+      console.log(`This is ${dog.name}`)
+      console.log(`${dog.name} is ${dog.age} years old`)
+      console.groupEnd(`${dog.name}`)
+    })
+
+    // counting
+    console.count('Suraj')
+    console.count('Suraj')
+    console.count('Suraj')
+    console.count('Suraj')
+    console.count('Atharva')
+    console.count('Atharva')
+    console.count('Atharva')
+    console.count('Atharva')
+    console.count('Suraj')
+    console.count('Atharva')
+    console.count('Atharva')
+
+    // timing
+    console.time('fetching data')
+    fetch('https://api.github.com/users/suraj-py')
+    .then(data => data.json())
+    .then(data => {
+      console.timeEnd('fetching data')
+      console.table(data)
+    })
+  </script>
+</body>
+</html>
