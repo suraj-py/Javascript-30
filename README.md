@@ -15,4 +15,5 @@ In this repo I have shared all the mini projects that I have learned by followin
 | 07 | [Array cardio 2](https://github.com/suraj-py/Javascript-30/tree/master/07%20-%20Array%20Cardio%20Day%202) |
 | 08 | [Fun with HTML5 Canvas](https://github.com/suraj-py/Javascript-30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas) |
 | 09 | [Dev Tools Domination](https://github.com/suraj-py/Javascript-30/tree/master/09%20-%20Dev%20Tools%20Domination) |
+| 10 | [Hold Shift and Check Checkboxes](https://github.com/suraj-py/Javascript-30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes) |
 
