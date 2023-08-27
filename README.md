@@ -25,4 +25,4 @@ In this repo I have shared all the mini projects that I have learned by followin
 | 17 | [Sort Without Articles](https://github.com/suraj-py/Javascript-30/tree/master/17%20-%20Sort%20Without%20Articles) |
 | 18 | [Adding Up Times with Reduce](https://github.com/suraj-py/Javascript-30/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce) |
 | 19 | [Webcam Fun](https://github.com/suraj-py/Javascript-30/tree/master/19%20-%20Webcam%20Fun) |
-| 20 | []() |
+| 20 | [Speech Detection](https://github.com/suraj-py/Javascript-30/tree/master/20%20-%20Speech%20Detection) |
