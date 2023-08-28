@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Understanding JavaScript's Capture</title>
+</head>
+<body class="bod">
+
+  <div class="one">
+    <div class="two">
+      <div class="three">
+      </div>
+    </div>
+  </div>
+
+  <button class="btn">Add to cart</button>
+
+<style>
+  html {
+    box-sizing: border-box;
+  }
+  
+  *, *:before, *:after { 
+    box-sizing: inherit; 
+  }
+
+  div {
+    width: 100%;
+    padding: 100px;
+  }
+
+  .one {
+    background: thistle;
+  }
+
+  .two {
+    background: mistyrose;
+  }
+
+  .three {
+    background: coral;
+  }
+</style>
+
+<script>
+  let divs = document.querySelectorAll('div')
+  let btn = document.querySelector('.btn')
+
+  function logText(e){
+    console.log(this.classList.value)
+    e.stopPropagation() //stop bubbling
+  }
+
+  divs.forEach(div => div.addEventListener('click', logText, {capture: false}))
+  btn.addEventListener('click', ()=>{
+    console.log('Added to cart')
+  }, {once: true}) //setting once: true will make the function only run once. useful in add to cart button
+</script>
+</body>
+</html>
