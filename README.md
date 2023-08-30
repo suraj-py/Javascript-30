@@ -29,3 +29,10 @@ In this repo I have shared all the mini projects that I have learned by followin
 | 21 | [Geolocation](https://github.com/suraj-py/Javascript-30/tree/master/21%20-%20Geolocation) |
 | 22 | [Follow Along Link Highlighter](https://github.com/suraj-py/Javascript-30/tree/master/22%20-%20Follow%20Along%20Link%20Highlighter) |
 | 23 | [Speech Synthesis](https://github.com/suraj-py/Javascript-30/tree/master/23%20-%20Speech%20Synthesis) |
+| 24 | [Sticky Nav](https://github.com/suraj-py/Javascript-30/tree/master/24%20-%20Sticky%20Nav)
+| 25 | [Event Capture, Propagation, Bubbling and Once](https://github.com/suraj-py/Javascript-30/tree/master/25%20-%20Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once)
+| 26 | [Stripe Follow Along Nav](https://github.com/suraj-py/Javascript-30/tree/master/26%20-%20Stripe%20Follow%20Along%20Nav)
+| 27 | [Click and Drag](https://github.com/suraj-py/Javascript-30/tree/master/27%20-%20Click%20and%20Drag)
+| 28 | [Video Speed Controller](https://github.com/suraj-py/Javascript-30/tree/master/28%20-%20Video%20Speed%20Controller)
+| 29 | [Countdown Time](https://github.com/suraj-py/Javascript-30/tree/master/29%20-%20Countdown%20Timer)
+| 30 | [Whack a Mole](https://github.com/suraj-py/Javascript-30/tree/master/30%20-%20Whack%20A%20Mole)
